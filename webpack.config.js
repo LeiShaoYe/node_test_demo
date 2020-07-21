@@ -19,7 +19,7 @@ devServer:{
 contentBase:'./',
 host:'localhost',
 port:1717,
-compress:true,
+
 
 }
 
